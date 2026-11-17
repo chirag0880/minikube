@@ -1,0 +1,5 @@
+Basic controls
+See Minikube in action!
+
+Start a cluster by running:  minikube start
+Access the Kubernetes dashboard running within the minikube cluster: minikube dashboard
