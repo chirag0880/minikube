@@ -9,3 +9,11 @@ FROM nginx:alpine
 COPY . /usr/share/nginx/html
 # Expose port 80
 EXPOSE 80
+```bash
+# For Linux
+sudo apt-get update
+sudo apt-get install git
+
+# For macOS
+brew install git
+```
