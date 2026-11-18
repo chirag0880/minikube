@@ -3,3 +3,12 @@ See Minikube in action!
 
 Start a cluster by running:  minikube start
 Access the Kubernetes dashboard running within the minikube cluster: minikube dashboard
+
+```bash
+# For Linux
+sudo apt-get update
+sudo apt-get install git
+
+# For macOS
+brew install git
+```
