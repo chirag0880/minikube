@@ -10,4 +10,12 @@ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scrip
 ```
 
 Grant execute permission:
+
+```
 ./get_helm.sh
+```
+check vesrion 
+
+```bash
+helm version
+```
